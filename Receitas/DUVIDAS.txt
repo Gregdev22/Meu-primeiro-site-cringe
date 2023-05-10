@@ -1,0 +1,6 @@
+DUVIDAS:
+
+a) Acrescentar overflow-y automático para a área principal--> a BARRA DE ROLAGEM FICA SO NO MAIN ??
+
+a) Utilizar a formatação do painel com a classe "card", e especificar a
+largura em 200px via atributo "style" ---> 200PX FICOU PESSIMO. MANTER ?
