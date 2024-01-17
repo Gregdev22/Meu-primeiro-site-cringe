@@ -33,9 +33,14 @@ culinárias, com a utilização apenas de HTML e CSS. </h2>
 <h2>Pagina Inicial</h2>
   <a href="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/image.png">
       <img src="https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Receitas/image.png" alt="estacio logo" width="9040" height="400">
-   </a>
+  </a>
+  
+<h2> Receitas </h2>
+  <a href="">
+      <img src="" alt="estacio logo" width="9040" height="400">
+  </a>
 
-
-[Página Inicial](https://github.com/Gregdev22/Meu-primeiro-site-cringe/blob/main/Rceitas/image.png)
-[Página de Receitas]()
-[Formulário e Navegação]()
+<h2> Cadastro </h2>
+  <a href="">
+      <img src="" alt="estacio logo" width="9040" height="400">
+  </a>
