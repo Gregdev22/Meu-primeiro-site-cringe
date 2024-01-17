@@ -7,7 +7,7 @@
      <hr>
 </div> 
 
-* DESENVOLVIMENTO FULL STACK- TURMA 23.3 -9003
+* DESENVOLVIMENTO FULL STACK
 * Disciplina: RPG0008  - Meu primeiro site "cringe"
 * Repositorio Git: https://github.com/Gregdev22/Meu-primeiro-site-cringe
 
